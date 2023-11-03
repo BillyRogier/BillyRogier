@@ -18,7 +18,7 @@ Je m'appelle Billy Rogier je suis étudiant à l'école WebTech et freelance dé
 
 ## 📧 Contact
 
-Vous pouvez me contacter par e-mail à [billy.rogier@free.fr](billy.rogier@free.fr) ou via la page contact de mon [portfolio](https://billyrogier.com/#contact).
+Vous pouvez me contacter par e-mail à [billy.rogier@free.fr] ou via la page contact de mon [portfolio](https://billyrogier.com/#contact).
 
 Merci de visiter mon profil GitHub !
 
