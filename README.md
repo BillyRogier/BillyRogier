@@ -9,7 +9,7 @@ Je m'appelle Billy Rogier je suis étudiant à l'école WebTech et freelance dé
 ## 💼 Projets en vedette
 
 - [Portfolio](https://github.com/BillyRogier/Billy_Rogier-portfolio/tree/main)
-- [Projet 2](lien-vers-le-projet-2) : Description brève du projet.
+- [Sylvie, biscuits et cie](https://github.com/BillyRogier/sylviebiscuitsetcie.fr)
 - [Projet 3](lien-vers-le-projet-3) : Description brève du projet.
 - [Projet 4](lien-vers-le-projet-4) : Description brève du projet.
 
