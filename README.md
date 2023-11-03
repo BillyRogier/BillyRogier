@@ -8,7 +8,7 @@ Je m'appelle Billy Rogier je suis étudiant à l'école WebTech et freelance dé
 
 ## 💼 Projets en vedette
 
-- [Projet 1](lien-vers-le-projet-1) : Description brève du projet.
+- [Portfolio](https://github.com/BillyRogier/Billy_Rogier-portfolio/tree/main)
 - [Projet 2](lien-vers-le-projet-2) : Description brève du projet.
 - [Projet 3](lien-vers-le-projet-3) : Description brève du projet.
 - [Projet 4](lien-vers-le-projet-4) : Description brève du projet.
