@@ -13,18 +13,12 @@ Je m'appelle Billy Rogier je suis étudiant à l'école WebTech et freelance dé
 - [Projet 3](lien-vers-le-projet-3) : Description brève du projet.
 - [Projet 4](lien-vers-le-projet-4) : Description brève du projet.
 
-## En savoir plus
-
-Explorez davantage mon travail, mes contributions open source et mes projets en parcourant [mon portfolio](lien-vers-votre-portfolio) ou en visitant mon [site web personnel](lien-vers-votre-site-web).
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/billy_rogier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/billyrogier) 
 
-## Contact
+## 📧 Contact
 
-📧 Vous pouvez me contacter par e-mail à [votre@email.com]. Je suis ouvert aux discussions sur des projets, des opportunités de collaboration ou simplement pour discuter de développement web.
-
-N'hésitez pas à me suivre sur [LinkedIn](lien-vers-votre-profil-LinkedIn) pour rester en contact.
+Vous pouvez me contacter par e-mail à [votre@email.com]. Je suis ouvert aux discussions sur des projets, des opportunités de collaboration ou simplement pour discuter de développement web.
 
 Merci de visiter mon profil GitHub !
 
