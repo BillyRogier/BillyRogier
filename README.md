@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub 👋
 
-Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applications, voir mes idées se concrétiser et trouver des solutions aux problèmes techniques. En freelance, j'ai bossé sur des projets variés, ce qui m'a permis de toucher à plein de technos et de toujours apprendre.
+Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applications, voir mes idées se concrétiser et trouver des solutions aux problèmes techniques. J'ai travaillé sur des projets variés, ce qui m'a permis de toucher à plein de technos et de toujours apprendre.
 
 ## 💻 Mes technos de cœur
 
