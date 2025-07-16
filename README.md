@@ -2,17 +2,15 @@
 
 Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applications, voir mes idées se concrétiser et trouver des solutions aux problèmes techniques. En freelance, j'ai bossé sur des projets variés, ce qui m'a permis de toucher à plein de technos et de toujours apprendre.
 
-## 💻 Compétences:
+## 💻 Mes technos de cœur
 
-### Mes technos de cœur
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%232C2C32.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Autres technos que j’utilise
+## 🚀 Autres technos que j’utilise
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
