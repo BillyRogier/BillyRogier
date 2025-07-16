@@ -27,13 +27,6 @@ Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applicati
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 💼 Projets en vedette
-
-- [Portfolio](https://github.com/BillyRogier/Billy_Rogier-portfolio/tree/main)
-- [Sylvie, biscuits et cie](https://github.com/BillyRogier/SylvieBiscuitsEtCie)
-- [Les Truelles Ardéchoises](https://github.com/BillyRogier/LesTruellesArdechoises)
-- [Projet final Webstart](https://github.com/BillyRogier/final_project-webstart)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/billy_rogier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/billyrogier) 
 
