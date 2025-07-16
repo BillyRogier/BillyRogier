@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub 👋
 
-Je m'appelle Billy Rogier je suis étudiant à l'école WebTech et freelance développeur web, je suis constamment à la recherche des dernières technologies et des tendances pour améliorer mon travail. J'apprécie la diversité des projets, toujours prêt à relever de nouveaux défis pour affiner mes compétences et offrir des solutions toujours plus efficaces.
+Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applications, voir mes idées se concrétiser et trouver des solutions aux problèmes techniques. En freelance, j'ai bossé sur des projets variés, ce qui m'a permis de toucher à plein de technos et de toujours apprendre.
 
 ## 💻 Compétences:
 
@@ -18,7 +18,7 @@ Je m'appelle Billy Rogier je suis étudiant à l'école WebTech et freelance dé
 
 ## 📧 Contact
 
-Vous pouvez me contacter par e-mail à [billy.rogier@free.fr] ou via la page contact de mon [portfolio](https://billyrogier.com/#contact).
+Vous pouvez me contacter par e-mail à [billy.rogier@gmail.com] ou via la page contact de mon [portfolio](https://billyrogier.com/#contact).
 
 Merci de visiter mon profil GitHub !
 
